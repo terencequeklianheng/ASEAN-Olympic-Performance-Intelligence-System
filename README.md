@@ -59,9 +59,9 @@ The cleaned ASEAN dataset contains:
 
 ## Dashboard Preview
 
-![Executive Overview](images/Executive_Overview.png)
+![Executive Overview](images/Screenshot of Executive Overview.png)
 
-![Performance Analysis](images/Performance_Analysis.png)
+![Performance Analysis](images/Screenshot of Performance Analysis.png)
 
 ## Repository Contents
 
